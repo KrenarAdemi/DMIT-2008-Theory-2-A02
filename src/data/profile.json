@@ -1,50 +1,44 @@
 {
   "site": {
-    "title": "Gianmarco Cavallo - Freelance front-end Developer",
-    "description": "I'm a developer based in Italy, passionate about user experience and specializing in engaging animations and micro-interactions. My primary tools of choice include: JavaScript, React, Solid.js, Astro, Svelte, and Node.js.",
+    "title": "Krenar Ademi - Web Developer",
+    "description": "Web Designer & Developer focused on building clean, responsive websites and user-focused experiences.",
     "footer": {
       "year": "2026",
       "prefix": "Built on",
       "frameworkName": "React",
       "frameworkUrl": "https://react.dev/",
-      "author": "AI under the guidance of DanG-IT Professional"
+      "author": "Krenar Ademi"
     }
   },
   "seo": {
-    "personName": "Gianmarco",
-    "jobTitle": "Freelance Frontend Developer",
-    "worksFor": "Self-Employed",
-    "location": "Italy",
-    "countryCode": "IT",
-    "nationality": "Italy",
-    "publisherName": "Gianmarco",
+    "personName": "Krenar Ademi",
+    "jobTitle": "Web Designer & Developer",
+    "worksFor": "Student / Freelance",
+    "location": "Canada",
+    "countryCode": "CA",
+    "nationality": "Albanian",
+    "publisherName": "Krenar",
     "sameAs": [
-      "https://www.linkedin.com/in/gianmarco-cavallo/",
-      "https://github.com/Ladvace"
+      "https://www.linkedin.com/in/krenar-ademi-20944b253/",
+      "https://github.com/KrenarAdemi"
     ]
   },
   "intro": {
-    "welcomeLabel": "welcome",
-    "name": "Gianmarco Cavallo",
-    "summary": "a software developer with strong focus on the user experience, animations and micro interactions",
+    "welcomeLabel": "Welcome",
+    "name": "Krenar Ademi",
+    "summary": "a web designer and developer focused on clean UI, performance, and real-world problem solving",
     "socialButtons": [
       {
         "ariaLabel": "github profile",
         "screenReaderLabel": "GitHub Profile",
         "icon": "ri:github-fill",
-        "url": "https://github.com/Ladvace"
+        "url": "https://github.com/KrenarAdemi"
       },
       {
         "ariaLabel": "linkedin profile",
         "screenReaderLabel": "Linkedin Profile",
         "icon": "ri:linkedin-box-fill",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
-      },
-      {
-        "ariaLabel": "dribble profile",
-        "screenReaderLabel": "Dribble Profile",
-        "icon": "ri:dribbble-fill",
-        "url": "https://dribbble.com/Ladvace_Jace"
+        "url": "https://www.linkedin.com/in/krenar-ademi-20944b253/"
       }
     ],
     "supportLink": {
@@ -54,43 +48,42 @@
     },
     "image": {
       "src": "/me.webp",
-      "alt": "memoji of gianmarco"
+      "alt": "memoji of krenar"
     }
   },
   "about": {
     "title": "About me",
-    "intro": "Hi, I'm Gianmarco, a front-end software developer from Italy.",
+    "intro": "Hi, I'm Krenar, a web design and development student based in Edmonton, Alberta.",
     "toolsIntro": "My primary tools of choice includes:",
     "tools": [
       "JavaScript",
+      "HTML",
+      "CSS",
       "React",
-      "Solidjs",
-      "Astro",
-      "Svelte",
-      "Nodejs"
+      "Wordpress",
+      "Figma",
+      "Adobe package (Photoshop, Illustrator, After Effects)",
+      "Canva"
     ],
-    "passion": "Beyond coding, I'm passionate about design, illustration, animation and 3D modelling and traveling. An unusual hobby of mine is collecting vintage passports, they're interesting pieces of history to me.",
-    "approach": "While I have some preferred tools, I always choose the best one for the job, even if it's not on my usual list. My goal is to find the right solution for each project."
+    "passion": "I'm passiionate about soccer, music, and technology. I love learning new things and taking on new challenges, which is why I chose to pursue a career in web design and development.",
+    "approach": "I believe that good design is not just about making things look pretty, but also about creating a seamless and enjoyable user experience. I strive to create websites that are not only visually appealing but also easy to navigate and use."
   },
   "contacts": {
-    "title": "Let's start working together!",
+    "title": "Let's work together!",
     "contactDetailsTitle": "Contact Details",
-    "email": "contact@gianmarcocavallo.com",
-    "location": "Italy",
+    "email": "krenar.ademi3@gmail.com",
+    "location": "Edmonton, Alberta, Canada",
     "socialsTitle": "Socials",
     "socialLinks": [
       {
         "label": "Linkedin",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
+        "url": "https://www.linkedin.com/in/krenar-ademi-20944b253/"
       },
       {
         "label": "Github",
-        "url": "https://github.com/Ladvace"
-      },
-      {
-        "label": "Discord",
-        "url": "https://discordapp.com/users/163300027618295808"
+        "url": "https://github.com/KrenarAdemi"
       }
+      
     ]
   },
   "timeZone": {
@@ -101,7 +94,7 @@
     "title": "Now",
     "helpLabel": "what's that ?",
     "helpUrl": "https://sive.rs/nowff",
-    "status": "Currently working fulltime"
+    "status": "Looking for internship opportunities, open to freelance projects, and always eager to learn and collaborate on new ideas."
   },
   "sections": {
     "schoolAssignment": {
