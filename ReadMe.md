@@ -2,7 +2,11 @@
 
 > Student Name: **Krenar Ademi**
 
-![Website Screenshot](./docs/images/screenshot.png)
+GitHub: https://github.com/KrenarAdemi
+
+## Final Project Screenshot
+
+![Website Screenshot](./public/screenshot.png)
 
 In this assignment, you will demonstrate your ability to
 
