@@ -1,6 +1,6 @@
 {
   "name": "theory-2-jan-2026",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "private": true,
   "scripts": {
     "predev": "pnpm unocss:build",
@@ -13,7 +13,6 @@
     "unocss:watch": "unocss \"src/**/*.{js,jsx,ts,tsx}\" --config unocss.config.js -w -o src/styles/unocss.css",
     "test": "vitest run",
     "test:watch": "vitest"
-
   },
   "dependencies": {
     "dayjs": "1.11.19",
