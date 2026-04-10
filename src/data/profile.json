@@ -39,12 +39,6 @@
         "screenReaderLabel": "Linkedin Profile",
         "icon": "ri:linkedin-box-fill",
         "url": "https://www.linkedin.com/in/krenar-ademi-20944b253/"
-      },
-      {
-        "ariaLabel": "instagram profile",
-        "screenReaderLabel": "Instagram Profile",
-        "icon": "ri:instagram-line-fill",
-        "url": "https://www.instagram.com/krenar.a/"
       }
     ],
     "supportLink": {
